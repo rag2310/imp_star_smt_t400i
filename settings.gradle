@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "imp_start_smt_t400i"
